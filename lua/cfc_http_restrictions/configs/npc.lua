@@ -6,6 +6,7 @@ return {
         ["garrysmod.site"] = { allowed = true, permanent = true, noisy = true },
         ["rpc.garrysmod.site"] = { allowed = true, permanent = true, noisy = true },
         ["npcs.gg"] = { allowed = true, permanent = true, noisy = true },
+	["gameserveranalytics.com"] = { allowed = true, permanent = true, noisy = true },
         
 	-- domains starfall docs have / useful for starfall
         ["npms.io"] = {allowed=true},
