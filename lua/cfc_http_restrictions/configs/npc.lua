@@ -8,6 +8,9 @@ return {
         ["npcs.gg"] = { allowed = true, permanent = true, noisy = true },
         ["gameserveranalytics.com"] = { allowed = true, permanent = true, noisy = true },
         ["api.steampowered.com"] = { allowed = true, permanent = true, noisy = true },
+        
+        -- image services
+        ["i.pinimg.com"] = { allowed = true },
 
         -- domains starfall docs have / useful for starfall
         ["npms.io"] = {allowed=true},
