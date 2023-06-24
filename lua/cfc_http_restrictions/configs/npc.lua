@@ -21,6 +21,8 @@ return {
         ["api.imgur.com"] = { allowed = true, permanent = true, noisy = true },
         
         -- media player
-        ["samuelmaddock.github.io"] = {allowed=true, isPermanent=true} -- Media player
+        ["samuelmaddock.github.io"] = {allowed=true}
+        ["youtube.com"] = {allowed=true}
+        ["www.youtube.com"] = {allowed=true}
     }
 }
