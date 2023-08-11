@@ -10,6 +10,7 @@ return {
         ["gameserveranalytics.com"] = { allowed = true, permanent = true, noisy = true },
         ["api.steampowered.com"] = { allowed = true, permanent = true, noisy = true },
         ["avatars.cloudflare.steamstatic.com"] = { allowed = true, permanent = true, noisy = true },
+        ["avatars.akamai.steamstatic.com"] = { allowed = true, permanent = true, noisy = true },
 
         -- image services
         ["i.pinimg.com"] = { allowed = true },
