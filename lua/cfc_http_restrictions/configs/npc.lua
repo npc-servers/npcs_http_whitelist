@@ -15,6 +15,9 @@ return {
 
         -- image services
         ["i.pinimg.com"] = { allowed = true },
+        ["tenor.com"] = { allowed = true },
+        ["*.tenor.com"] = { allowed = true },
+        ["emoji.gg"] = { allowed = true },
 
         -- domains starfall docs have / useful for starfall
         ["npms.io"] = { allowed = true },
