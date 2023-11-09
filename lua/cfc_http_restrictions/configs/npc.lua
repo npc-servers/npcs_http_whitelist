@@ -1,3 +1,5 @@
+AddCSLuaFile()
+
 return {
     version = "1",
     wrapHTMLPanels = true,
