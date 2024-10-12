@@ -12,8 +12,7 @@ return {
         ["*.npcz.gg"] = { allowed = true, permanent = true, noisy = true },
         ["gameserveranalytics.com"] = { allowed = true, permanent = true, noisy = true },
         ["api.steampowered.com"] = { allowed = true, permanent = true, noisy = true },
-        ["avatars.cloudflare.steamstatic.com"] = { allowed = true, permanent = true, noisy = true },
-        ["avatars.akamai.steamstatic.com"] = { allowed = true, permanent = true, noisy = true },
+        ["*.steamstatic.com"] = { allowed = true, permanent = true, noisy = true },
         ["discord.gg"] = { allowed = true, noisy = true },
         ["gmod-express.redoxdev.workers.dev"] = { allowed = true, permanent = true, noisy = true },
 
