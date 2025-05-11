@@ -35,6 +35,8 @@ return {
         -- media player
         ["samuelmaddock.github.io"] = { allowed = true },
         ["youtube.com"] = { allowed = true },
-        ["www.youtube.com"] = { allowed = true }
+        ["www.youtube.com"] = { allowed = true },
+        ["purrcoding.github.io"] = { allowed = true },
+        ["gmod-youtube.pages.dev"] = { allowed = true },
     }
 }
